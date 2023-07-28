@@ -7,8 +7,8 @@
 <br>
 <div>
   <a href="https://github.com/zanoniFab">
-  <img width="500" height="180em" src="https://github-readme-stats.vercel.app/api?username=zanoniFab&show_icons=true&theme=dark">
-  <img width="500" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanoniFab&layout=compact&theme=dark&langs_count=10">
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=zanoniFab&show_icons=true&theme=dark">
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanoniFab&layout=compact&theme=dark&langs_count=10">
 </div>
 <br>
 <div>
